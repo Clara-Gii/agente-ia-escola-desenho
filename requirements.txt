@@ -1,2 +1,6 @@
-python-docx
-pypdf
+streamlit
+langchain
+langchain-community
+chromadb
+sentence-transformers
+langchain-huggingface
