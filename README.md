@@ -18,6 +18,11 @@ A solução foi construída em duas etapas principais:
 - **Interface Web:** Streamlit
 - **Deploy em Nuvem:** Streamlit Community Cloud
 
+- Registro de execução e funcionamento:
+- <img width="1167" height="881" alt="Captura de tela 2026-08-24 020611" src="https://github.com/user-attachments/assets/f32f6838-2605-467c-9048-4e8469e05f93" />
+- Link funcional: https://agente-ia-escola-desenho-lk27rft6sqv8nkfhcmblg7.streamlit.app/
+
+
 ## Instruções para Executar o Projeto (Localmente)
 Para rodar este projeto na sua máquina, siga os passos abaixo:
 
